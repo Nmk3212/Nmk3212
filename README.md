@@ -1,6 +1,9 @@
 # Halo semua! 
-Perkenalkan nama saya **Nicholas Marcell Kusumo**.\
-
+Perkenalkan nama saya **Nicholas Marcell Kusumo**.
+🌱 I’m currently learning in Universitas Kristen Duta Wacana and Bangkit Academy
+🤔 I’m looking for help with Senior Developer
+💬 Ask me about basic Proramming
+⚡ Hobby: I love volleyball, basketball
 
 <p align="left">
 <a href="https://github.com/Nmk3212">
